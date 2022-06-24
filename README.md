@@ -1,0 +1,2 @@
+# django-cruddd
+keep trying
